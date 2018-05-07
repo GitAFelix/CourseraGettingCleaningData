@@ -7,3 +7,16 @@ WALKING_DOWNSTAIRS <br />
 SITTING <br />
 STANDING <br />
 LAYING <br />
+
+## Measurements
+tBodyAcc-mean()-X	<br />
+tBodyAcc-mean()-Y	<br />
+tBodyAcc-mean()-Z	<br />
+tGravityAcc-mean()-X	<br />
+tGravityAcc-mean()-Y	<br />
+tGravityAcc-mean()-Z	<br />
+tBodyAccJerk-mean()-X	<br />
+tBodyAccJerk-mean()-Y	<br />
+tBodyAccJerk-mean()-Z	<br />
+tBodyGyro-mean()-X	<br />
+
