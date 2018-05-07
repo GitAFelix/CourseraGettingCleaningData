@@ -1,6 +1,6 @@
 # Code Book
 
-# Activities
+## Activities
 WALKING
 WALKING_UPSTAIRS
 WALKING_DOWNSTAIRS
